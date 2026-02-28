@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+build/
+dist/
+*.egg-info/
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+*.local
+.eslintcache
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Models & Data (Optional, but usually large)
+# models/*.h5
+# data/
+
+# Logs
+logs/
+*.log
